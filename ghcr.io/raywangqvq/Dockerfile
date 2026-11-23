@@ -1,0 +1,1 @@
+FROM ghcr.io/raywangqvq/bili_tool_web:latest
